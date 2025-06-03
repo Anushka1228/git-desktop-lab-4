@@ -35,6 +35,6 @@
 
 ### Screenshot of Merge Conflict Resolution
 
-- [Merge Conflict Screenshot](conflict_screenshot.png)
+- [Merge Conflict Screenshot](conflict.png)
 
 
